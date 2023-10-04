@@ -8,7 +8,7 @@
 - [Photo Editor](https://fengyuanchen.github.io/photo-editor) - An advanced example of Cropper.js.
 - [jquery-cropper](https://github.com/fengyuanchen/jquery-cropper) - A jQuery plugin wrapper for Cropper.js.
 
-## Table of contents
+!# Table of contents
 
 - [Features](#features)
 - [Main](#main)
@@ -74,7 +74,7 @@ In browser:
 new Cropper(element[, options])
 ```
 
-- **element**
+-  *element**
   - Type: `HTMLImageElement` or `HTMLCanvasElement`
   - The target image or canvas element for cropping.
 
@@ -1074,3 +1074,4 @@ Maintained under the [Semantic Versioning guidelines](https://semver.org/).
 - [Symfony UX Cropper.js](https://github.com/symfony/ux-cropperjs) by [@symfony](https://github.com/symfony)
 
 [⬆ back to top](#table-of-contents)
+ 
