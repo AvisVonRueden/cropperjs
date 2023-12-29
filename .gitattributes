@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.txt  text
+*.java text
+*.sh   text
+*.bat  text
+*.xml  text
